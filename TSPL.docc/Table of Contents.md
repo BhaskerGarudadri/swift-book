@@ -1,12 +1,12 @@
 # Table of Contents
 ## Welcome to Swift
- 1. ### About Swift
- 1. ### Version Compatiblity
- 1. ### A Swift Tour
- ## Language Guide
- 1. ### The Basics
- 1. ### String and Characters
- 1. ### Collection Types
+1. ### About Swift
+1. ### Version Compatiblity
+1. ### A Swift Tour
+## Language Guide
+1. ### The Basics
+1. ### String and Characters
+1. ### Collection Types
 1. ###  Control Flow
 1. ###  Functions
 1. ###  Closures
